@@ -1,11 +1,11 @@
-.destaques {
+.destaques{
     background-color: var(--azul-claro);
 
     padding-top: 2.5rem;
     padding-bottom: 2rem;
 }
 
-.destaques__titulo{
+.destaques__titulo {
     text-align: center;
     font-weight: 700;
     font-family: var(--montserrat);
@@ -33,10 +33,10 @@
 .destaques__painel-texto {
     font-weight: 400;
     font-size: 1.2rem;
-    line-height: 2rem;
+    line-height: normal;
 }
 
-.destaques__botao{
+.destaques__botao {
     color: var(--vermelho-forte);
     border-color: var(--vermelho-forte);
     margin: 0 auto;
